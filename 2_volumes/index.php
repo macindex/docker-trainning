@@ -7,7 +7,7 @@
     <title>Messages</title>
 </head>
 <body>
-    <h1>Write your message</h1>
+    <h1>Write your message! Bind mount</h1>
     <form action="process.php" method="POST">
         <input type="text" name="message" id="message">
         <input type="submit" value="Send message">
